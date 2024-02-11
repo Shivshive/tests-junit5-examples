@@ -1,0 +1,10 @@
+runners\JunitSuiteRunner.class
+data\Number_Test.class
+tests\ParametrizedTest.class
+data\CustomArgumentAggregator.class
+data\CustomAggregator_WithEnumSource.class
+data\numbers_.class
+data\CustomDateYearChecker.class
+data\ArgumentConverter_Test.class
+data\ArgumentProviderTest.class
+data\NumberData.class
